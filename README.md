@@ -1,6 +1,8 @@
 # Rogella-Radio
 Live radio listening application developed with Flutter.
 
+(Play Store)[https://play.google.com/store/apps/details?id=com.sriclyapps.rogella_radio&hl=en_US&gl=US]
+
 📻 With Rogella Radio, it's easy to access the FM radio, AM radio and online radio stations you want! With our free radio application hosting more than 15000 radio stations, you can quickly reach radio stations broadcasting music, news and live sports.
 
 📱With Rogella Radio's easy and fast interface, you can easily navigate within the application and easily access any radio station you want. If you want to find your favorite radio in a short time, all you have to do is type in your name and search.
